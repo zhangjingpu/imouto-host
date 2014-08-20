@@ -1,0 +1,29 @@
+请支持我的博客
+### 乱炖-研究web   http://levi.cg.am ###
+
+如何修改hosts？
+### http://levi.cg.am/archives/3553 ###
+
+hosts不定期更新，获取最新hosts通知，请邮件订阅
+
+### http://list.qq.com/cgi-bin/qf_invite?id=b6eb34388fd016582957d6e50d005146e24fe6b166ee66c0 ###
+
+
+```
+#+BEGIN
+#+UPDATE_TIME 2014-08-15 17:03:00
+#+MESSAGE
+#######################################################################
+#
+#  imouto.host
+#
+#  #Ver : 2.05.0453 Sakura Chiyo
+#  #Update Time : 2014.08.15;17:03
+#  #Fix & Bug : 请参阅imouto.host.Readme.txt
+#
+#  数据来源于互联网上的无名英雄们
+#  感谢他们！
+#
+#######################################################################
+#+MESSAGE_END
+```
