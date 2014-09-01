@@ -6,7 +6,7 @@
 
 hosts不定期更新，获取最新hosts通知，请邮件订阅
 
-### http://list.qq.com/cgi-bin/qf_invite?id=b6eb34388fd016582957d6e50d005146e24fe6b166ee66c0 ###
+### [http://list.qq.com/cgi-bin/qf_invite?id=b6eb34388fd016582957d6e50d005146e24fe6b166ee66c0](http://list.qq.com/cgi-bin/qf_invite?id=b6eb34388fd016582957d6e50d005146e24fe6b166ee66c0 "邮件订阅hosts更新") ###
 
 ### Hosts源 ###
 可自助选择切换hosts源，推荐使用imouto.host
