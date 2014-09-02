@@ -13,9 +13,6 @@
  - imouto.host : 9月1日
  - Simple U Hosts : 8月20日
 
-hosts 修改后若还需要正常观看youtube视屏，请查看下面这篇文章
-### [http://levi.cg.am/archives/3553][2] ###
-
 > 修改hosts之后，能翻墙访问一些被GFW屏蔽的网站，但是却观看不了youtube的在线视频，为了解决这个问题，大家可参考这篇文章哦
 > ### http://levi.cg.am/archives/3573 ###
 
