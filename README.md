@@ -1,15 +1,12 @@
-coding 目前MD语法有问题，下面链接请手动复制到浏览器中访问
-
-
 请支持我的博客
 ### 乱炖-研究web   http://levi.cg.am ###
 
 如何修改hosts？
-### http://levi.cg.am/archives/3553 ###
+### [http://levi.cg.am/archives/3553][2] ###
 
 hosts不定期更新，获取最新hosts通知，请邮件订阅
 
-[http://list.qq.com/cgi-bin/qf_invite?id=b6eb34388fd016582957d6e50d005146e24fe6b166ee66c0][1]
+### [http://list.qq.com/cgi-bin/qf_invite?id=b6eb34388fd016582957d6e50d005146e24fe6b166ee66c0][1] ###
 
 ### Hosts源更新时间 ###
 可自助选择切换hosts源，推荐使用imouto.host
