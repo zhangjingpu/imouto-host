@@ -10,7 +10,7 @@
 ### Hosts源更新时间 ###
 可自助选择切换hosts源，推荐使用imouto.host
 
- - imouto.host : 9月29日
+ - imouto.host : 10月08日
  - Simple U Hosts : 8月20日
 
 > 修改hosts之后，能翻墙访问一些被GFW屏蔽的网站，但是却观看不了youtube的在线视频，为了解决这个问题，大家可参考这篇文章哦
