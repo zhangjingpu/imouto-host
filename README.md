@@ -12,7 +12,12 @@
 
  - imouto.host : 10月23日
  - Simple U Hosts : 8月20日
+ - Hosts-ä : 10月28日
 
+> **首选imouto.host，其他仅作为hosts失效时临时替补解决方案**
+> 请保持自己的hosts为最新的hosts
+
+### 如何观看youtube ###
 > 修改hosts之后，能翻墙访问一些被GFW屏蔽的网站，但是却观看不了youtube的在线视频，为了解决这个问题，大家可参考这篇文章哦
 > ### http://levi.cg.am/archives/3573 ###
 
