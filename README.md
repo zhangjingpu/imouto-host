@@ -10,7 +10,7 @@
 ### Hosts源更新时间 ###
 可自助选择切换hosts源，推荐使用imouto.host
 
- - imouto.host : 10月23日  （首选推荐）
+ - imouto.host : 10月30日  （首选推荐）
  - Simple U Hosts : 8月20日  （临时备用）
  - Hosts-ä : 10月28日  （临时备用）
 
