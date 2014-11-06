@@ -12,7 +12,7 @@
 
  - imouto.host : 10月30日  （首选推荐）
  - Simple U Hosts : 8月20日  （临时备用）
- - Hosts-ä : 10月28日  （临时备用）
+ - Hosts-ä : 11月6日  （备用，基于imouto.host，增加了PS、Xbox、任天堂、Android等服务）
 
 > **首选imouto.host，其他仅作为hosts失效时临时替补解决方案**
 > 请保持自己的hosts为最新的hosts
