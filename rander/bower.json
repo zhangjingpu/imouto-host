@@ -1,0 +1,26 @@
+{
+  "name": "hosts/rander",
+  "version": "0.0.1",
+  "description": "hosts 文件读取",
+  "main": "index.php",
+  "keywords": [
+    "hosts"
+  ],
+  "authors": [
+    "levi"
+  ],
+  "license": "MIT",
+  "homepage": "http://levi.cg.am",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.0",
+    "zeroclipboard": "~2.1.6"
+  }
+}

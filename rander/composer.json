@@ -5,5 +5,10 @@
   "require" : {
     "levi/lv" : "dev-master"
   },
+  "authors" : [ {
+    "name" : "Levi",
+    "email" : "cgfeel@gmail.com",
+    "homepage" : "http://levi.cg.am"
+  } ],
   "license" : "MIT"
 }

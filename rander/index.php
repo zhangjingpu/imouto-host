@@ -4,7 +4,7 @@ include 'vendor/autoload.php';
 use lv\file\Path;
 use lv\file\text\SplFile;
 
-$path = new Path('../');
+$path = new Path();
 $hosts = array(
 	array(
 		'path' => 'imouto.host',
@@ -28,11 +28,12 @@ $hosts = array(
 	)
 );
 
-$path->open($hosts[1]['path']);
 foreach ($hosts as $key => $dir) 
 {
-	$str = $path->cd('../')->open(urldecode($dir['path']).'\hosts')->get();
+	$str = $path->parents()->open(urldecode($dir['path']).'\hosts')->get();
 	$hosts[$key]['data'] = (new SplFile($str))->fread();
+
+	$path->parents();
 }
 
 ?><!DOCTYPE html>
@@ -49,7 +50,7 @@ foreach ($hosts as $key => $dir)
 	#box {
 		margin: 20px;
 	}
-	
+
 	.ctrl-btn p {
 		text-align: center;
 	}
