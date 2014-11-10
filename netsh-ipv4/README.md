@@ -15,15 +15,13 @@ hosts 修改后若还需要正常观看youtube视屏，请查看下面这篇文�
 
 ```
 #+BEGIN
-#+UPDATE_TIME 2014-10-30 15:41:00
+#+UPDATE_TIME 2014-11-7 PM
 #+MESSAGE
 #######################################################################
 #
-#  imouto.host
+#  netsh.host-ipv4
 #
-#  #Ver : 2.19.0507 Asata Shino
-#  #Update Time : 2014-10-30 15:41:00
-#  #Fix & Bug
+#  #Ver : 8.1
 #
 #  数据来源于互联网上的无名英雄们
 #  感谢他们！

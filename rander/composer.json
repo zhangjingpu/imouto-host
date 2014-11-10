@@ -1,0 +1,9 @@
+{
+  "name" : "hosts/rander",
+  "description" : "hosts 文件读取",
+  "version" : "0.0.1",
+  "require" : {
+    "levi/lv" : "dev-master"
+  },
+  "license" : "MIT"
+}

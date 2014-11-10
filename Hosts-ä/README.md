@@ -1,3 +1,6 @@
+当前你看到的是hosts源码，若需要快捷选择、复制hosts，请点击下面链接：
+### http://levi.cg.am/archives/3553 ###
+
 请支持我的博客
 ### 乱炖-研究web   http://levi.cg.am ###
 

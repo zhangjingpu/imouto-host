@@ -1,3 +1,6 @@
+当前你看到的是hosts源码，若需要快捷选择、复制hosts，请点击下面链接：
+### http://levi.cg.am/archives/3553 ###
+
 请支持我的博客
 ### 乱炖-研究web   http://levi.cg.am ###
 
@@ -11,6 +14,8 @@
 可自助选择切换hosts源，推荐使用imouto.host
 
  - imouto.host : 10月30日  （首选推荐）
+ - netsh.host-ipv4 : 11月7日  （推荐使用）
+ - netsh.host-ipv6 : 10月25日  （IPV6用户推荐使用）
  - Simple U Hosts : 8月20日  （临时备用）
  - Hosts-ä : 11月6日  （备用，基于imouto.host，增加了PS、Xbox、任天堂、Android等服务）
 
