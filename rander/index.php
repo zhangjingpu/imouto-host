@@ -19,8 +19,8 @@ $hosts = array(
 		'desc' => '推荐使用，适合支持IPV6的朋友，包含了常用的网站hosts'
 	), 
 	array(
-		'path' => 'Hosts-a%CC%88',
-		'desc' => '基于imouto.host，增加了PS、Xbox、任天堂、Android等服务'
+		'path' => 'Hosts-a',
+		'desc' => '备用选择，基于imouto.host，增加了PS、Xbox、任天堂、Android等服务'
 	), 
 	array(
 		'path' => 'Simple+U+Hosts',
@@ -85,7 +85,7 @@ foreach ($hosts as $key => $dir)
 				<?php printf('<div role="tabpanel" class="tab-pane fade%s" id="tab-link-%s" aria-labelledby="tab-btn-%2$s">', $key ? '' : ' in active', $key); ?>
 					<p><?php echo $host['desc'] ?></p>
 					<div class="ctrl-btn">
-						<p><?php printf('<button type="button" id="copy-%s" class="btn btn-success btn-lg"  onclick="select_field(\'host-%1$s\')">选择并复制当前所有hosts</button>', $key); ?></p>
+						<p><?php printf('<button type="button" id="copy-%s" class="btn btn-success btn-lg"  onclick="select_field(\'%1$s\')">选择并复制当前所有hosts</button>', $key); ?></p>
 						<p><?php printf('<span class="tips-%s"><font>hosts 复制成功</font>，若您当前的浏览器默认不支持复制当前内容，请手动操作”<font>ctrl + c</font>“进行复制</span>', $key); ?></p>
 					</div>
 					<p>
@@ -98,8 +98,14 @@ foreach ($hosts as $key => $dir)
 	</div>
 	<script type="text/javascript">
 	function select_field(id){
-		document.getElementById(id).focus();
-		document.getElementById(id).select();
+		var tips = $('.tips-' + id).show(),
+			text = $('#host-' + id)[0];
+
+		text.focus();
+		text.select();
+		setTimeout(function() {
+			tips.hide();
+		}, 5000);
 	}
 
 	//设置路径
@@ -112,12 +118,8 @@ foreach ($hosts as $key => $dir)
 			client.on("copy", function(event) {
 				var clipboard = event.clipboardData;
 				var copyText = $('#host-' + num).val();
-				var tips = $('.tips-' + num).show();
 
 				clipboard.setData("text/plain", copyText); // 将内容添加到剪切板
-				setTimeout(function() {
-					tips.hide();
-				}, 5000);
 			});
 		});
 	}
