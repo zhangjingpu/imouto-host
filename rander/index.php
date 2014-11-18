@@ -7,10 +7,6 @@ use lv\file\text\SplFile;
 $path = new Path();
 $hosts = array(
 	array(
-		'path' => 'imouto.host',
-		'desc' => '推荐使用，包含了：google服务、facebook、Twitter、YouTube、dropbox等服务'
-	), 
-	array(
 		'path' => 'netsh-ipv4',
 		'desc' => '推荐使用，包含了常用的网站hosts'
 	), 
@@ -21,6 +17,10 @@ $hosts = array(
 	array(
 		'path' => 'Hosts-a',
 		'desc' => '备用选择，基于imouto.host，增加了PS、Xbox、任天堂、Android等服务'
+	), 
+	array(
+		'path' => 'imouto.host',
+		'desc' => 'imo.hosts于10.30日暂停更新，更新之日另行通知。首选其他hosts，此hosts作为备用'
 	), 
 	array(
 		'path' => 'Simple+U+Hosts',
