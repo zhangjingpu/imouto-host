@@ -1,4 +1,4 @@
-#Current Version 2.0.1
+#Current Version 2.0.3
 #+UPDATE_TIME 2014-10-25 PM
 #######################################################################
 #
@@ -2058,6 +2058,7 @@ fe80::1%lo0	localhost
 #2a00:1450:4016:800::1010
 
 #Mail clients may not work for following hosts
+#If so, delete these lines
 2607:f8b0:4007:805::100f	gmail-pop.l.google.com
 2607:f8b0:4007:805::100f	pop.googlemail.com
 2607:f8b0:4007:805::100f	googlemail-pop.l.google.com
@@ -2092,6 +2093,7 @@ fe80::1%lo0	localhost
 2607:f8b0:4007:805::100f	encrypted-tbn9.gstatic.com
 2607:f8b0:4007:805::100f	blogger.com
 2607:f8b0:4007:805::100f	inbox.google.com
+2607:f8b0:4007:805::100f	fonts.gstatic.com
 2607:f8b0:4007:805::100f	www.blogger.com
 2607:f8b0:4007:805::100f	blogspot.com
 2607:f8b0:4007:805::100f	www.blogspot.com

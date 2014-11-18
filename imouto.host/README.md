@@ -1,6 +1,8 @@
 当前你看到的是hosts源码，若需要快捷选择、复制hosts，请点击下面链接：
 ### http://levi.cg.am/archives/3553 ###
 
+### imo.hosts于10.30日暂停更新，更新之日另行通知。首选其他hosts，此hosts作为备用
+
 请支持我的博客
 ### 乱炖-研究web   http://levi.cg.am ###
 
