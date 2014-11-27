@@ -1,4 +1,4 @@
-#+UPDATE_TIME 2014-11-18
+#+UPDATE_TIME 2014-11-26
 #+MESSAGE
 #######################################################################
 #
@@ -13,7 +13,7 @@
 #  部署hosts文件前请注意文本编码和换行符格式。
 #  基于imouto.host
 #
-#  #version 1.7.3.D
+#  #version 1.7.4.A
 #
 #######################################################################
 #+MESSAGE_END
@@ -23,28 +23,31 @@
 ::1	localhost
 
 ###hosts-ä###
+#Amazon
+54.231.96.224 s3.amazonaws.com
+
 #Google Fix
 74.125.130.190 imap.google.com
 74.125.130.190 newsstand.googleusercontent.com
 74.125.130.190 producer.googleusercontent.com
 74.125.130.190 feeds.feedburner.com
 74.125.130.190 inputtools.google.com
-195.122.30.55 inbox.google.com
+195.122.16.44 inbox.google.com
 
 #Ubi Uplay
-203.77.191.6 static3.cdn.ubi.com
+95.140.228.103 static3.cdn.ubi.com
 
 #EA Origin
-69.192.11.9 www.origin.com
-69.192.11.9 secure.download.dm.origin.com
-63.219.18.168 akamai.cdn.ea.com
-63.219.18.168 static.cdn.ea.com
-63.219.18.168 ams.akamai.cdn.ea.com
+23.54.11.9 www.origin.com
+23.54.11.9 secure.download.dm.origin.com
+195.13.205.17 akamai.cdn.ea.com
+195.13.205.24 static.cdn.ea.com
+195.13.205.27 ams.akamai.cdn.ea.com
 
 #IGN
-63.219.18.168 www.ign.com
-63.219.18.168 assets.ign.com
-63.219.18.168 assets1.ignimgs.com
+195.13.205.17 www.ign.com
+195.13.205.11 assets.ign.com
+195.13.205.17 assets1.ignimgs.com
 
 #Xbox
 60.28.252.135 redirect.zune.net
@@ -355,7 +358,6 @@
 195.13.205.8 cloud-7.steampowered.com
 195.13.205.8 cloud-9.steampowered.com
 
-###imouto.host###
 #ccFox.info
 66.155.11.238 ccfox.info
 66.155.11.238 myimouto.wordpress.com
@@ -401,6 +403,8 @@
 103.245.222.133	pages.github.com
 103.245.222.184	github.global.ssl.fastly.net
 103.245.222.133	google.github.io
+192.30.252.142 gist.github.com
+185.31.17.133 avatars3.githubusercontent.com
 
 #Box.com
 74.112.184.73	box.com
@@ -682,7 +686,7 @@
 64.233.176.84	accounts.l.google.com
 
 #www.google.com
-74.125.232.212 www.google.com
+74.125.232.209 www.google.com
 
 #Googleapis
 74.125.130.190	mt0.googleapis.com
@@ -2129,6 +2133,7 @@
 64.233.161.189	15.drive.google.com
 64.233.161.189	16.docs.google.com
 64.233.161.189	16.drive.google.com
+
 #Googleusercontent
 74.125.133.132	www.googleusercontent.com
 74.125.133.132	googlehosted.l.googleusercontent.com
