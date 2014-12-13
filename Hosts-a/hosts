@@ -1,4 +1,4 @@
-#+UPDATE_TIME 2014-12-8
+#+UPDATE_TIME 2014-12-13
 #+MESSAGE
 #######################################################################
 #
@@ -13,7 +13,7 @@
 #  部署hosts文件前请注意文本编码和换行符格式。
 #  基于imouto.host
 #
-#  #version 1.8.0.D
+#  #version 1.8.0.E
 #
 #######################################################################
 #+MESSAGE_END
@@ -103,36 +103,36 @@
 2.20.142.27 i1.social.s-msft.com
 
 #Steam
-23.61.211.235 store.steampowered.com
-23.61.211.235 steamcommunity.com
-23.61.211.235 forums.steampowered.com
-23.61.211.235 support.steampowered.com
-23.61.211.235 storefront.steampowered.com
+95.100.3.235 store.steampowered.com
+95.100.3.235 steamcommunity.com
+95.100.3.235 forums.steampowered.com
+95.100.3.235 support.steampowered.com
+95.100.3.235 storefront.steampowered.com
 195.13.205.11 store.valvesoftware.com
 195.13.205.11 store.akamai.steamstatic.com
 195.13.205.11 cdn.akamai.steamstatic.com
-195.13.205.8 valve.vo.llnwd.net
-195.13.205.8 cdn.store.steampowered.com
-195.13.205.8 cdn.steampowered.com
-195.13.205.8 cdn.steamcommunity.com
-195.13.205.8 media.steampowered.com
+195.13.205.19 valve.vo.llnwd.net
+195.13.205.19 cdn.store.steampowered.com
+195.13.205.19 cdn.steampowered.com
+195.13.205.11 cdn.steamcommunity.com
+195.13.205.19 media.steampowered.com
 205.185.216.10 media2.steampowered.com
 195.13.205.11 media4.steampowered.com
-195.13.205.8 content1.steampowered.com
-205.185.216.10 content3.steampowered.com
+195.13.205.19 content1.steampowered.com
+205.185.216.42 content3.steampowered.com
 93.184.221.131 content4.steampowered.com
-54.230.98.86 content5.steampowered.com
-69.241.30.110 content6.steampowered.com
+54.230.98.128 content5.steampowered.com
+69.241.26.126 content6.steampowered.com
 195.13.205.11 content7.steampowered.com
 195.13.205.11 content8.steampowered.com
-195.13.205.8 cloud.steampowered.com
-205.185.216.10 cloud-2.steampowered.com
+195.13.205.19 cloud.steampowered.com
+205.185.216.42 cloud-2.steampowered.com
 195.13.205.11 cloud-3.steampowered.com
-195.13.205.8 cloud-5.steampowered.com
-195.13.205.8 cloud-6.steampowered.com
-195.13.205.8 cloud-7.steampowered.com
-195.13.205.8 cloud-7.steampowered.com
-195.13.205.8 cloud-9.steampowered.com
+195.13.205.19 cloud-5.steampowered.com
+195.13.205.19 cloud-6.steampowered.com
+195.13.205.19 cloud-7.steampowered.com
+195.13.205.19 cloud-7.steampowered.com
+195.13.205.19 cloud-9.steampowered.com
 
 #ccFox.info
 66.155.11.238 ccfox.info
