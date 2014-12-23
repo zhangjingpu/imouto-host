@@ -1,5 +1,5 @@
-#Current Version 2.0.4
-#+UPDATE_TIME 2014-12-13 P.M.
+#Current Version 2.1
+#+UPDATE_TIME 2014-12-23 P.M.
 #######################################################################
 #
 #  netsh.host-ipv6
@@ -2085,7 +2085,12 @@ fe80::1%lo0	localhost
 2607:f8b0:4007:805::100f	googlemail-imap.l.google.com
 #end Mail clients
 
+
 2607:f8b0:4007:805::100f	encrypted-tbn.gstatic.com
+2607:f8b0:4007:805::100f	isolated.mail.google.com
+2607:f8b0:4007:805::100f	security.google.com
+2607:f8b0:4007:805::100f	cloud.google.com
+2607:f8b0:4007:805::100f	myaccount.google.com
 2607:f8b0:4007:805::100f	encrypted-tbn0.gstatic.com
 2607:f8b0:4007:805::100f	encrypted-tbn1.gstatic.com
 2607:f8b0:4007:805::100f	encrypted-tbn2.gstatic.com

@@ -1,5 +1,5 @@
 #Current Version 13
-#+UPDATE_TIME 2014-12-18 P.M.
+#+UPDATE_TIME 2014-12-23 P.M.
 #######################################################################
 #
 #  netsh.host-ipv4
@@ -1323,6 +1323,10 @@ fe80::1%lo0	localhost
 #Mail clients
 
 209.116.186.242	blogger.com
+209.116.186.242	isolated.mail.google.com
+209.116.186.242	security.google.com
+209.116.186.242	cloud.google.com
+209.116.186.242	myaccount.google.com
 209.116.186.242	inbox.google.com
 209.116.186.242	keep.google.com
 209.116.186.242	fonts.gstatic.com
