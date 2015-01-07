@@ -16,6 +16,7 @@
  - netsh.host-ipv4 : 2015年1月5日  （推荐使用）
  - netsh.host-ipv6 : 12月30日  （IPV6用户推荐使用）
  - Hosts-ä : 12月23日  （备用，基于imouto.host，增加了yyets、PS4、Xbox、任天堂、Android等服务）
+ - Hosts-ä : 2015年1月6日  （备用，只提供google和facebook的hosts源）
  - imouto.host : 10月30日  （暂停更新）
  - Simple U Hosts : 8月20日  （临时备用）
 
