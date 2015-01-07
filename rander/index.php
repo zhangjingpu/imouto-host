@@ -19,6 +19,10 @@ $hosts = array(
 		'desc' => '备用选择，基于imouto.host，增加了PS、Xbox、任天堂、Android等服务'
 	), 
 	array(
+		'path' => '360kb',
+		'desc' => '备用选择，只提供google，facebook的hosts源'
+	), 
+	array(
 		'path' => 'imouto.host',
 		'desc' => 'imo.hosts于10.30日暂停更新，更新之日另行通知。首选其他hosts，此hosts作为备用'
 	), 
