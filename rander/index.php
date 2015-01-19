@@ -15,13 +15,13 @@ $hosts = array(
 		'desc' => '推荐使用，适合支持IPV6的朋友，包含了常用的网站hosts'
 	), 
 	array(
-		'path' => 'Hosts-a',
-		'desc' => '备用选择，基于imouto.host，增加了PS、Xbox、任天堂、Android等服务'
-	), 
-	array(
 		'path' => '360kb',
 		'desc' => '备用选择，只提供google，facebook的hosts源'
-	), 
+	),
+        array(
+                'path' => 'Hosts-a',
+                'desc' => '备用选择，基于imouto.host，增加了PS、Xbox、任天堂、Android等服务'
+        ), 
 	array(
 		'path' => 'imouto.host',
 		'desc' => 'imo.hosts于10.30日暂停更新，更新之日另行通知。首选其他hosts，此hosts作为备用'

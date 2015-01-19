@@ -1,4 +1,4 @@
-#+UPDATE_TIME 2015.1.15
+#+UPDATE_TIME 2015.1.19
 #######################################################################
 #
 #  360kb.host-ipv4
@@ -19,10 +19,6 @@
 #+MESSAGE_END
 
 121.199.10.190    levi.cg.am
-
-127.0.0.1	localhost
-::1	localhost
-fe80::1%lo0	localhost
 
 #google hosts
 #base services
@@ -724,10 +720,9 @@ fe80::1%lo0	localhost
 #google source end
 #google hosts 2015 end
 
-
 #facebook hosts 2015
-173.252.120.9 facebook.com
-173.252.120.9 www.facebook.com
+173.252.120.10 facebook.com
+173.252.120.10 www.facebook.com
 185.60.216.7 touch.facebook.com
 185.60.216.7 apps.facebook.com
 185.60.216.7 upload.facebook.com
@@ -735,16 +730,19 @@ fe80::1%lo0	localhost
 185.60.216.7 zh-cn.facebook.com
 185.60.216.7 login.facebook.com
 185.60.216.7 m.facebook.com
+
 185.60.216.7 graph.facebook.com
 185.60.216.7 ssl.facebook.com
 185.60.216.7 api.facebook.com
 185.60.216.7 attachments.facebook.com
 185.60.216.7 developers.facebook.com
 
+
 184.28.188.154  s-static.ak.facebook.com
 184.28.188.154  profile.ak.facebook.com
 184.28.188.154 static.ak.facebook.com
 184.28.188.154 b.static.ak.facebook.com
+
 
 184.28.188.153 act.channel.facebook.com
 184.28.188.153 0-act.channel.facebook.com
