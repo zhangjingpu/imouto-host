@@ -1,5 +1,5 @@
 #+BEGIN
-#+UPDATE_TIME 2015-01-19 20:13:30
+#+UPDATE_TIME 2015-01-20 21:05:39
 #+MESSAGE
 #######################################################################
 #
@@ -792,6 +792,8 @@
 216.58.220.142	img.youtube.com
 216.58.216.46	video.google.com
 216.58.216.46	video.l.google.com
+216.58.216.46	video.google.com.hk
+216.58.216.46	video.google.com.tw
 216.58.216.46	video-thumbnails.l.google.com
 216.58.216.46	video-stats.video.google.com
 216.58.216.46	video-stats.l.google.com
@@ -1331,11 +1333,12 @@
 216.58.220.137	blogger.l.google.com
 216.58.220.137	accounts.blogger.com
 216.58.216.33	blogspot.l.google.com
-216.58.216.33	google-opensource.blogspot.com
-216.58.216.33	googleblog.blogspot.com
-216.58.216.33	googlechinablog.blogspot.com
-216.58.216.33	googlechromereleases.blogspot.com
-216.58.216.33	magnifier.blogspot.com
+#216.58.216.33	google-opensource.blogspot.com
+#216.58.216.33	googleblog.blogspot.com
+#216.58.216.33	googlechinablog.blogspot.com
+#216.58.216.33	googlechromereleases.blogspot.com
+#216.58.216.33	magnifier.blogspot.com
+#216.58.216.33	officialorkutblog.blogspot.com
 216.58.217.46	bloggerphotos.l.google.com
 216.58.216.33	1.bp.blogspot.com
 216.58.216.33	2.bp.blogspot.com
@@ -1372,7 +1375,6 @@
 64.233.176.85	promote.orkut.com
 64.233.176.85	orkut-promote.l.google.com
 64.233.176.85	help.orkut.com
-216.58.216.33	officialorkutblog.blogspot.com
 64.233.176.85	blog.orkut.com
 64.233.176.85	en.blog.orkut.com
 #Orkut↑
@@ -1385,6 +1387,7 @@
 216.58.220.142	apis.google.com
 216.58.220.142	talkgadget.google.com
 216.58.220.142	supl.google.com
+216.58.216.46	bandaid-redirector.l.google.com
 64.233.185.121	www.gwtproject.org
 64.233.164.82	www.googlesource.com
 64.233.164.82	googlesource.com
@@ -4127,7 +4130,7 @@
 
 #SoundCloud START
 72.21.91.127	soundcloud.com
-72.21.91.127	m.soundcloud.com
+68.232.44.127	m.soundcloud.com
 72.21.91.127	api.soundcloud.com
 72.21.91.127	visuals.soundcloud.com
 54.77.79.249	eventlogger.soundcloud.com
