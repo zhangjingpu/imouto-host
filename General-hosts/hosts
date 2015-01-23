@@ -1,5 +1,5 @@
 #+BEGIN
-#+UPDATE_TIME 2015-01-23 12:32:37
+#+UPDATE_TIME 2015-01-23 19:54:31
 #+MESSAGE
 #######################################################################
 #
@@ -334,12 +334,12 @@
 216.58.218.177	v8.cache8.c.bigcache.googleapis.com
 #Googleapis↑
 #Android↓
-216.58.220.142	android.clients.google.com
+216.58.218.174	android.clients.google.com
 216.58.216.142	android-china.clients.google.com
 216.58.216.142	redirector.c.android.clients.google.com
-216.58.220.142	android-china.l.google.com
-216.58.220.142	android.apis.google.com
-216.58.220.142	android.l.google.com
+216.58.218.174	android-china.l.google.com
+216.58.218.174	android.apis.google.com
+216.58.218.174	android.l.google.com
 216.58.218.193	googlehosted.l.google.com
 216.58.218.193	base0.googlehosted.com
 216.58.218.193	base1.googlehosted.com
@@ -781,16 +781,16 @@
 64.233.189.211	ext.google.com
 #Android↑
 #Youtube↓
-216.58.220.142	accounts.youtube.com
-216.58.220.142	youtube.com
-216.58.220.142	youtu.be
-216.58.220.142	www.youtube.com
+216.58.218.174	accounts.youtube.com
+216.58.218.174	youtube.com
+216.58.218.174	youtu.be
+216.58.218.174	www.youtube.com
 216.58.216.142	www.youtube-nocookie.com
-216.58.220.142	m.youtube.com
-216.58.220.142	s.youtube.com
-216.58.220.142	s2.youtube.com
-216.58.220.142	insight.youtube.com
-216.58.220.142	img.youtube.com
+216.58.218.174	m.youtube.com
+216.58.218.174	s.youtube.com
+216.58.218.174	s2.youtube.com
+216.58.218.174	insight.youtube.com
+216.58.218.174	img.youtube.com
 216.58.218.177	video.google.com
 216.58.218.177	video.l.google.com
 216.58.218.177	video.google.com.hk
@@ -801,16 +801,16 @@
 64.233.185.121	apiblog.youtube.com
 216.58.216.142	gdata.youtube.com
 216.58.216.142	stage.gdata.youtube.com
-216.58.220.142	help.youtube.com
-216.58.220.142	redirector.c.youtube.com
-216.58.220.142	i.ytimg.com
-216.58.220.142	i1.ytimg.com
-216.58.220.142	i2.ytimg.com
-216.58.220.142	i3.ytimg.com
-216.58.220.142	i4.ytimg.com
-216.58.220.142	s.ytimg.com
-216.58.220.142	ytimg.l.google.com
-216.58.220.142	s0-2mdn-net.l.google.com
+216.58.218.174	help.youtube.com
+216.58.218.174	redirector.c.youtube.com
+216.58.218.174	i.ytimg.com
+216.58.218.174	i1.ytimg.com
+216.58.218.174	i2.ytimg.com
+216.58.218.174	i3.ytimg.com
+216.58.218.174	i4.ytimg.com
+216.58.218.174	s.ytimg.com
+216.58.218.174	ytimg.l.google.com
+216.58.218.174	s0-2mdn-net.l.google.com
 216.58.216.142	youtube-ui.l.google.com
 216.58.216.142	manifest.googlevideo.com
 216.58.216.142	redirector.googlevideo.com
@@ -868,19 +868,19 @@
 64.233.161.189	16.drive.google.com
 #GoogleDrive↑
 #UpLoad↓
-216.58.220.142	uploads.clients.google.com
-216.58.220.142	uploads.client.google.com
-216.58.220.142	upload.clients.google.com
-216.58.220.142	upload.client.google.com
-64.233.161.117	upload.google.com
-64.233.161.117	upload.docs.google.com
-64.233.161.117	upload.photos.google.com
-64.233.161.117	upload.drive.google.com
-64.233.161.117	upload.video.google.com
-64.233.161.117	upload.youtube.com
-64.233.161.117	uploads.stage.gdata.youtube.com
-64.233.161.117	uploads.code.google.com
-64.233.161.117	uploads.clients.google.com
+216.58.218.174	uploads.clients.google.com
+216.58.218.174	uploads.client.google.com
+216.58.218.174	upload.clients.google.com
+216.58.218.174	upload.client.google.com
+64.233.168.117	upload.google.com
+64.233.168.117	upload.docs.google.com
+64.233.168.117	upload.photos.google.com
+64.233.168.117	upload.drive.google.com
+64.233.168.117	upload.video.google.com
+64.233.168.117	upload.youtube.com
+64.233.168.117	uploads.stage.gdata.youtube.com
+64.233.168.117	uploads.code.google.com
+64.233.168.117	uploads.clients.google.com
 #UpLoad↑
 #Appspot↓
 64.233.180.141	www.appspot.com
@@ -1329,10 +1329,10 @@
 64.233.160.109	googlemail-pop.l.google.com
 #Google Mail↑
 #Blogger↓
-216.58.220.137	blogger.com
-216.58.220.137	www.blogger.com
-216.58.220.137	blogger.l.google.com
-216.58.220.137	accounts.blogger.com
+216.58.216.9	blogger.com
+216.58.216.9	www.blogger.com
+216.58.216.9	blogger.l.google.com
+216.58.216.9	accounts.blogger.com
 216.58.218.193	blogspot.l.google.com
 #216.58.218.193	google-opensource.blogspot.com
 #216.58.218.193	googleblog.blogspot.com
@@ -1385,9 +1385,9 @@
 216.58.216.142	feedburner.google.com
 216.58.216.142	feedproxy.google.com
 216.58.216.142	chart.apis.google.com
-216.58.220.142	apis.google.com
-216.58.220.142	talkgadget.google.com
-216.58.220.142	supl.google.com
+216.58.218.174	apis.google.com
+216.58.218.174	talkgadget.google.com
+216.58.218.174	supl.google.com
 216.58.218.177	bandaid-redirector.l.google.com
 64.233.185.121	www.gwtproject.org
 64.233.164.82	www.googlesource.com
