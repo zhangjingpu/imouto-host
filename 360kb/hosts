@@ -1,5 +1,5 @@
 #+BEGIN
-#+UPDATE_TIME 2015.1.25
+#+UPDATE_TIME 2015.1.26
 #+MESSAGE
 #######################################################################
 #
@@ -684,20 +684,7 @@
 64.233.169.105    ssl.google-analytics.com 
 64.233.169.105    www.google-analytics.com
 64.233.169.105 plus.url.google.com
-#google alternative domains
-#google blogger begin
-216.58.219.43    www.blogger.com
-216.58.219.43     accounts.blogger.com
-216.58.219.43     www.blogspot.com
-216.58.219.43     google-opensource.blogspot.com 
-216.58.219.43     googleblog.blogspot.com 
-216.58.219.43  googlechinablog.blogspot.com
-216.58.219.43     googlechromereleases.blogspot.com 
-216.58.219.43     1.bp.blogspot.com 
-216.58.219.43     2.bp.blogspot.com 
-216.58.219.43     3.bp.blogspot.com 
-216.58.219.43     4.bp.blogspot.com
-#google blogger end
+#google alternative domains end
 #google anroid begin(access via http)
 208.117.255.226    android.com
 208.117.255.226    www.android.com

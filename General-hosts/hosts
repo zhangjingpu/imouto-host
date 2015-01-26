@@ -1,5 +1,5 @@
 #+BEGIN
-#+UPDATE_TIME 2015-01-23 19:54:31
+#+UPDATE_TIME 2015-01-26 13:25:53
 #+MESSAGE
 #######################################################################
 #
@@ -621,6 +621,7 @@
 216.58.216.142	v5.nonxt6.c.android.clients.google.com
 216.58.216.142	v5.nonxt7.c.android.clients.google.com
 216.58.216.142	v5.nonxt8.c.android.clients.google.com
+
 216.58.216.142	v6.nonxt1.c.android.clients.google.com
 216.58.216.142	v6.nonxt2.c.android.clients.google.com
 216.58.216.142	v6.nonxt3.c.android.clients.google.com
@@ -1274,6 +1275,7 @@
 216.58.220.3	encrypted-tbn4.gstatic.com
 216.58.220.3	encrypted-tbn5.gstatic.com
 216.58.220.3	encrypted-tbn6.gstatic.com
+
 216.58.220.3	g0.gstatic.com
 216.58.220.3	g1.gstatic.com
 216.58.220.3	g2.gstatic.com
@@ -1778,6 +1780,7 @@
 216.58.216.142	pagead-tpc.l.google.com
 216.58.216.142	partnerad.l.google.com
 216.58.216.142	helpouts.google.com
+216.58.216.142	peering.google.com
 216.58.216.142	google.org
 216.58.216.142	www.google.org
 #Google other↑
@@ -2793,6 +2796,7 @@
 198.35.26.96	wikimediafoundation.org
 198.35.26.96	wikinews.org
 198.35.26.96	wikipedia.org
+
 198.35.26.96	wikiquote.org
 198.35.26.96	wikisource.org
 198.35.26.96	wikiversity.org
