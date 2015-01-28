@@ -1,5 +1,5 @@
 #+BEGIN
-#+UPDATE_TIME 2015-01-27 19:18:51
+#+UPDATE_TIME 2015-01-28 21:02:48
 #+MESSAGE
 #######################################################################
 #
@@ -35,8 +35,8 @@ ff02::2	ip6-allrouters
 
 #Google Services START
 #GoogleAccounts↓
-216.58.216.237	accounts.google.com
-216.58.216.237	accounts.l.google.com
+216.58.220.13	accounts.google.com
+216.58.220.13	accounts.l.google.com
 216.58.220.114	myaccount.google.com
 #GoogleAccounts↑
 #www.google.com↓
