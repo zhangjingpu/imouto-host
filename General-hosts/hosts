@@ -1,5 +1,5 @@
 #+BEGIN
-#+UPDATE_TIME 2015-01-28 21:02:48
+#+UPDATE_TIME 2015-01-29 12:07:00
 #+MESSAGE
 #######################################################################
 #
@@ -1358,31 +1358,31 @@ ff02::2	ip6-allrouters
 216.58.220.1	img4.blogblog.com
 #Blogger↑
 #Orkut↓
-64.233.160.86	www.orkut.com
-64.233.160.86	orkut-fe.l.google.com
-64.233.160.86	www.orkut.gmodules.com
-64.233.160.86	a.orkut.gmodules.com
-64.233.160.86	orkut-opensocial.l.google.com
-64.233.160.86	img1.orkut.com
-64.233.160.86	img2.orkut.com
-64.233.160.86	img3.orkut.com
-64.233.160.86	img4.orkut.com
-64.233.160.86	img5.orkut.com
-64.233.160.86	img6.orkut.com
-64.233.160.86	img7.orkut.com
-64.233.160.86	img8.orkut.com
-64.233.160.86	img9.orkut.com
-64.233.160.86	orkut-images.l.google.com
-64.233.160.86	static1.orkut.com
-64.233.160.86	static2.orkut.com
-64.233.160.86	static3.orkut.com
-64.233.160.86	static4.orkut.com
-64.233.160.86	orkut-static.l.google.com
-64.233.160.86	promote.orkut.com
-64.233.160.86	orkut-promote.l.google.com
-64.233.160.86	help.orkut.com
-64.233.160.86	blog.orkut.com
-64.233.160.86	en.blog.orkut.com
+64.233.180.86	www.orkut.com
+64.233.180.86	orkut-fe.l.google.com
+64.233.180.86	www.orkut.gmodules.com
+64.233.180.86	a.orkut.gmodules.com
+64.233.180.86	orkut-opensocial.l.google.com
+64.233.180.86	img1.orkut.com
+64.233.180.86	img2.orkut.com
+64.233.180.86	img3.orkut.com
+64.233.180.86	img4.orkut.com
+64.233.180.86	img5.orkut.com
+64.233.180.86	img6.orkut.com
+64.233.180.86	img7.orkut.com
+64.233.180.86	img8.orkut.com
+64.233.180.86	img9.orkut.com
+64.233.180.86	orkut-images.l.google.com
+64.233.180.86	static1.orkut.com
+64.233.180.86	static2.orkut.com
+64.233.180.86	static3.orkut.com
+64.233.180.86	static4.orkut.com
+64.233.180.86	orkut-static.l.google.com
+64.233.180.86	promote.orkut.com
+64.233.180.86	orkut-promote.l.google.com
+64.233.180.86	help.orkut.com
+64.233.180.86	blog.orkut.com
+64.233.180.86	en.blog.orkut.com
 #Orkut↑
 #Google other↓
 64.233.178.113	history.google.com
