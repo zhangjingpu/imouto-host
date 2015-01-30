@@ -12,7 +12,7 @@ $hosts = array(
         ),
 	array(
 		'path' => 'netsh-ipv4',
-		'desc' => '推荐使用，包含了常用的网站hosts'
+		'desc' => '推荐使用，包含了常用的网站，facebook、twitter待更新，暂不提供，可选择其他源'
 	), 
 	array(
 		'path' => 'netsh-ipv6',
