@@ -1,5 +1,5 @@
 #+BEGIN
-#+UPDATE_TIME 2015-01-29 16:31:57
+#+UPDATE_TIME 2015-01-30 10:28:38
 #+MESSAGE
 #######################################################################
 #
@@ -58,29 +58,29 @@ ff02::2	ip6-allrouters
 216.58.220.114	www10.google.com
 #www.google.com↑
 #Googleapis↓
-216.58.220.138	mt0.googleapis.com
-216.58.220.138	mt1.googleapis.com
-216.58.220.138	mt2.googleapis.com
-216.58.220.138	mt3.googleapis.com
-216.58.220.138	mts0.googleapis.com
-216.58.220.138	mts1.googleapis.com
-216.58.220.138	mts2.googleapis.com
-216.58.220.138	mts3.googleapis.com
-216.58.220.138	googleapis.com
-216.58.220.138	www.googleapis.com
-216.58.220.138	android.googleapis.com
-216.58.220.138	play.googleapis.com
-216.58.220.138	plus.googleapis.com
-216.58.220.138	ajax.googleapis.com
-216.58.220.138	chart.googleapis.com
-216.58.220.138	fonts.googleapis.com
-216.58.220.138	redirector-bigcache.googleapis.com
-216.58.220.138	translate.googleapis.com
-216.58.220.138	maps.googleapis.com
-216.58.220.138	content.googleapis.com
-216.58.220.138	mclients.googleapis.com
-216.58.220.138	googleapis.l.google.com
-216.58.220.138	doc-0a9v4-0agdq-s-googleusercontent.commondatastorage.googleapis.com
+216.58.220.10	mt0.googleapis.com
+216.58.220.10	mt1.googleapis.com
+216.58.220.10	mt2.googleapis.com
+216.58.220.10	mt3.googleapis.com
+216.58.220.10	mts0.googleapis.com
+216.58.220.10	mts1.googleapis.com
+216.58.220.10	mts2.googleapis.com
+216.58.220.10	mts3.googleapis.com
+216.58.220.10	googleapis.com
+216.58.220.10	www.googleapis.com
+216.58.220.10	android.googleapis.com
+216.58.220.10	play.googleapis.com
+216.58.220.10	plus.googleapis.com
+216.58.220.10	ajax.googleapis.com
+216.58.220.10	chart.googleapis.com
+216.58.220.10	fonts.googleapis.com
+216.58.220.10	redirector-bigcache.googleapis.com
+216.58.220.10	translate.googleapis.com
+216.58.220.10	maps.googleapis.com
+216.58.220.10	content.googleapis.com
+216.58.220.10	mclients.googleapis.com
+216.58.220.10	googleapis.l.google.com
+216.58.220.10	doc-0a9v4-0agdq-s-googleusercontent.commondatastorage.googleapis.com
 216.58.220.14	v1.lscache1.c.bigcache.googleapis.com
 216.58.220.14	v1.lscache2.c.bigcache.googleapis.com
 216.58.220.14	v1.lscache3.c.bigcache.googleapis.com
@@ -1766,6 +1766,7 @@ ff02::2	ip6-allrouters
 216.58.220.114	www.googlesource.com
 216.58.216.4	googlegroups.com
 216.58.216.4	www.googlegroups.com
+216.58.220.114	wave.google.com
 216.58.220.114	googlewave.com
 216.58.220.114	www.googlewave.com
 216.58.220.114	wave0.googlewave.com
