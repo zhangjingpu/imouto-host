@@ -6,10 +6,6 @@ use lv\file\text\SplFile;
 
 $path = new Path();
 $hosts = array(
-        array(
-                'path' => 'General-hosts',
-                'desc' => '首选推荐，包含了常用的网站hosts，更新频率较快'
-        ),
 	array(
 		'path' => 'netsh-ipv4',
 		'desc' => '推荐使用，包含了常用的网站，facebook、twitter待更新，暂不提供，可选择其他源'
@@ -18,6 +14,10 @@ $hosts = array(
 		'path' => 'netsh-ipv6',
 		'desc' => '推荐使用，适合支持IPV6的朋友，包含了常用的网站hosts'
 	),
+        array(
+                'path' => 'General-hosts',
+                'desc' => '首选推荐，包含了常用的网站hosts，更新频率较快'
+        ),
 	array(
 		'path' => '360kb',
 		'desc' => '备用选择，只提供google，facebook的hosts源'
