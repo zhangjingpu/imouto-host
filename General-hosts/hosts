@@ -1,5 +1,5 @@
 #+BEGIN
-#+UPDATE_TIME 2015-01-30 11:23:13
+#+UPDATE_TIME 2015-01-31 14:55:53
 #+MESSAGE
 #######################################################################
 #
@@ -34,12 +34,12 @@ ff02::2	ip6-allrouters
 #localhost END
 
 #Google Services START
-#GoogleAccounts↓
+#GoogleAccounts\\
 216.58.220.13	accounts.google.com
 216.58.220.13	accounts.l.google.com
 216.58.220.16	myaccount.google.com
-#GoogleAccounts↑
-#www.google.com↓
+#GoogleAccounts//
+#www.google.com\\
 216.58.220.16	google.com
 216.58.220.16	www.google.com
 216.58.220.16	www.l.google.com
@@ -56,8 +56,8 @@ ff02::2	ip6-allrouters
 216.58.220.16	www9.google.com
 216.58.220.16	www9.l.google.com
 216.58.220.16	www10.google.com
-#www.google.com↑
-#Googleapis↓
+#www.google.com//
+#Googleapis\\
 216.58.220.10	mt0.googleapis.com
 216.58.220.10	mt1.googleapis.com
 216.58.220.10	mt2.googleapis.com
@@ -337,8 +337,8 @@ ff02::2	ip6-allrouters
 216.58.220.14	v8.cache6.c.bigcache.googleapis.com
 216.58.220.14	v8.cache7.c.bigcache.googleapis.com
 216.58.220.14	v8.cache8.c.bigcache.googleapis.com
-#Googleapis↑
-#Android↓
+#Googleapis//
+#Android\\
 64.233.185.138	android.clients.google.com
 216.58.220.16	android-china.clients.google.com
 216.58.220.16	redirector.c.android.clients.google.com
@@ -784,8 +784,8 @@ ff02::2	ip6-allrouters
 64.233.185.125	talk.l.google.com
 64.233.189.211	proxy.googlezip.net
 64.233.189.211	ext.google.com
-#Android↑
-#Youtube↓
+#Android//
+#Youtube\\
 64.233.185.138	accounts.youtube.com
 64.233.185.138	youtube.com
 64.233.185.138	youtu.be
@@ -819,8 +819,8 @@ ff02::2	ip6-allrouters
 216.58.220.16	youtube-ui.l.google.com
 216.58.220.16	manifest.googlevideo.com
 216.58.220.16	redirector.googlevideo.com
-#Youtube↑
-#GoogleDrive↓
+#Youtube//
+#GoogleDrive\\
 216.58.220.16	drive.google.com
 216.58.220.16	docs.google.com
 216.58.220.1	googledrive.com
@@ -871,8 +871,8 @@ ff02::2	ip6-allrouters
 64.233.180.189	15.drive.google.com
 64.233.180.189	16.docs.google.com
 64.233.180.189	16.drive.google.com
-#GoogleDrive↑
-#UpLoad↓
+#GoogleDrive//
+#UpLoad\\
 64.233.185.138	uploads.clients.google.com
 64.233.185.138	uploads.client.google.com
 64.233.185.138	upload.clients.google.com
@@ -886,8 +886,8 @@ ff02::2	ip6-allrouters
 64.233.160.117	uploads.stage.gdata.youtube.com
 64.233.160.117	uploads.code.google.com
 64.233.160.117	uploads.clients.google.com
-#UpLoad↑
-#Appspot↓
+#UpLoad//
+#Appspot\\
 64.233.164.141	www.appspot.com
 64.233.164.141	appspot.com
 64.233.164.141	appspot.l.google.com
@@ -913,15 +913,15 @@ ff02::2	ip6-allrouters
 64.233.164.141	r7647-dot-latest-dot-project-slingshot-hr.appspot.com
 64.233.164.141	wcproxyx.appspot.com
 64.233.164.141	virustotalcloud.appspot.com
-#Appspot↑
-#Googleusercontent↓
+#Appspot//
+#Googleusercontent\\
 216.58.220.1	www.googleusercontent.com
 216.58.220.1	googlehosted.l.googleusercontent.com
 216.58.220.1	oauth.googleusercontent.com
 216.58.220.1	feedback.googleusercontent.com
 216.58.220.1	translate.googleusercontent.com
 216.58.220.1	themes.googleusercontent.com
-216.58.220.1	webcache.googleusercontent.com
+203.208.46.172	webcache.googleusercontent.com
 216.58.220.1	books.googleusercontent.com
 216.58.220.1	video.googleusercontent.com
 216.58.220.1	music-onebox.googleusercontent.com
@@ -1264,8 +1264,8 @@ ff02::2	ip6-allrouters
 216.58.220.1	38-wave-opensocial.googleusercontent.com
 216.58.220.1	39-wave-opensocial.googleusercontent.com
 216.58.220.1	40-wave-opensocial.googleusercontent.com
-#Googleusercontent↑
-#Gstatic↓
+#Googleusercontent//
+#Gstatic\\
 216.58.216.131	www.gstatic.com
 216.58.216.131	ssl.gstatic.com
 216.58.216.131	csi.gstatic.com
@@ -1303,8 +1303,8 @@ ff02::2	ip6-allrouters
 216.58.220.16	t5.gstatic.com
 216.58.220.16	t6.gstatic.com
 216.58.220.16	t7.gstatic.com
-#Gstatic↑
-#Google Mail↓
+#Gstatic//
+#Google Mail\\
 216.58.220.199	gmail.com
 216.58.220.199	www.gmail.com
 216.58.220.14	gmail.google.com
@@ -1333,8 +1333,8 @@ ff02::2	ip6-allrouters
 64.233.185.109	gmail-pop.l.google.com
 64.233.185.109	pop.googlemail.com
 64.233.185.109	googlemail-pop.l.google.com
-#Google Mail↑
-#Blogger↓
+#Google Mail//
+#Blogger\\
 216.58.216.41	blogger.com
 216.58.216.41	www.blogger.com
 216.58.216.41	blogger.l.google.com
@@ -1357,8 +1357,8 @@ ff02::2	ip6-allrouters
 216.58.220.1	img2.blogblog.com
 216.58.220.1	img3.blogblog.com
 216.58.220.1	img4.blogblog.com
-#Blogger↑
-#Orkut↓
+#Blogger//
+#Orkut\\
 64.233.180.86	www.orkut.com
 64.233.180.86	orkut-fe.l.google.com
 64.233.180.86	www.orkut.gmodules.com
@@ -1384,8 +1384,8 @@ ff02::2	ip6-allrouters
 64.233.180.86	help.orkut.com
 64.233.180.86	blog.orkut.com
 64.233.180.86	en.blog.orkut.com
-#Orkut↑
-#Google other↓
+#Orkut//
+#Google other\\
 64.233.178.113	history.google.com
 64.233.178.113	adwords.google.com
 216.58.220.16	feedburner.google.com
@@ -1612,6 +1612,7 @@ ff02::2	ip6-allrouters
 216.58.220.16	suggestqueries.google.com
 216.58.220.16	suggestqueries.l.google.com
 216.58.220.14	support.google.com
+216.58.220.14	business.google.com
 216.58.220.16	tbn0.google.com
 216.58.220.16	tbn1.google.com
 216.58.220.16	tbn2.google.com
@@ -1788,8 +1789,8 @@ ff02::2	ip6-allrouters
 216.58.220.16	peering.google.com
 216.58.220.16	google.org
 216.58.220.16	www.google.org
-#Google other↑
-#Google Play↓
+#Google other//
+#Google Play\\
 203.208.46.81	r1---sn-a5m7zne7.c.android.clients.google.com
 203.208.46.81	r2---sn-a5m7zne7.c.android.clients.google.com
 203.208.46.81	r3---sn-a5m7zne7.c.android.clients.google.com
@@ -1970,7 +1971,7 @@ ff02::2	ip6-allrouters
 203.208.46.81	r18---sn-npo7enes.c.android.clients.google.com
 203.208.46.81	r19---sn-npo7enes.c.android.clients.google.com
 203.208.46.81	r20---sn-npo7enes.c.android.clients.google.com
-#Google Play↑
+#Google Play//
 #Google Services END
 
 #Twitter START
@@ -2053,21 +2054,21 @@ ff02::2	ip6-allrouters
 179.60.192.3	messenger.com
 179.60.192.3	www.messenger.com
 179.60.192.3	www.facebook.com
-179.60.192.3	m.facebook.com
-173.252.120.8	b-api.facebook.com
+31.13.67.1	m.facebook.com
+31.13.67.6	b-api.facebook.com
 173.252.79.21	d.facebook.com
 173.252.75.17	chat.facebook.com
 173.252.113.24	vupload.facebook.com
 173.252.103.10	secure-profile.facebook.com
 173.252.120.4	www.connect.facebook.com
-173.252.79.23	orcart.facebook.com
-173.252.79.23	mqtt.facebook.com
+173.252.122.1	orcart.facebook.com
+173.252.122.1	mqtt.facebook.com
 173.252.71.184	vpn.tfbnw.net
 23.48.140.135	connect.facebook.net
 31.13.67.1	bigzipfiles.facebook.com
-31.13.79.246	ssl.connect.facebook.com
+185.60.216.7 	ssl.connect.facebook.com
 31.13.67.5	o.facebook.com
-31.13.79.246	c.facebook.com
+31.13.67.1	c.facebook.com
 31.13.67.1	check4.facebook.com
 31.13.67.1	error.facebook.com
 31.13.67.1	touch.facebook.com
@@ -2084,8 +2085,8 @@ ff02::2	ip6-allrouters
 31.13.67.1	ssl.facebook.com
 31.13.67.1	secure.facebook.com
 31.13.67.1	attachments.facebook.com
-31.13.79.246    lm.facebook.com
-31.13.79.246    l.facebook.com
+185.60.216.7    lm.facebook.com
+31.13.67.1      l.facebook.com
 179.60.192.3	fbcdn.net
 23.2.16.41	profile.ak.fbcdn.net
 42.99.128.170	static.ak.fbcdn.net
@@ -2153,8 +2154,8 @@ ff02::2	ip6-allrouters
 31.13.87.20	scontent-7-dfw.xx.fbcdn.net
 31.13.87.20	scontent-8-dfw.xx.fbcdn.net
 31.13.87.20	scontent-9-dfw.xx.fbcdn.net
-31.13.66.5	scontent-a-dfw.xx.fbcdn.net
-31.13.66.5	scontent-b-dfw.xx.fbcdn.net
+#31.13.66.5	scontent-a-dfw.xx.fbcdn.net
+#31.13.66.5	scontent-b-dfw.xx.fbcdn.net
 31.13.79.251	scontent-c-dfw.xx.fbcdn.net
 31.13.87.20	scontent-d-dfw.xx.fbcdn.net
 31.13.87.20	scontent-e-dfw.xx.fbcdn.net
@@ -4317,35 +4318,35 @@ ff02::2	ip6-allrouters
 #Archive END
 
 #Other START
-#ccFox.info↓
+#ccFox.info\\
 66.155.11.238	ccfox.info
 66.155.11.238	myimouto.wordpress.com
 192.0.72.3	myimouto.files.wordpress.com
 50.63.202.23	imouto.me
-#ccFox.info↑
-#ProjectH↓
+#ccFox.info//
+#ProjectH\\
 106.186.31.197	projecth.us
 106.186.31.197	www.projecth.us
 106.186.31.197	forum.projecth.us
 106.186.31.197	repo.projecth.us
-#ProjectH↑
-#Box.com↓
+#ProjectH//
+#Box.com\\
 74.112.184.73	box.com
 74.112.184.70	app.box.com
-#Box.com↑
-#Dev-Host↓
+#Box.com//
+#Dev-Host\\
 199.193.117.44	d-h.st
 199.193.117.44	www.d-h.st
 74.50.117.136	fs1.d-h.st
-#Dev-Host↑
-#Bitcoin↓
+#Dev-Host//
+#Bitcoin\\
 109.201.133.195	bitcointalk.org
 109.201.133.195	www.bitcointalk.org
-#Bitcoin↑
-#EA↓
+#Bitcoin//
+#EA\\
 219.76.10.155	akamai.cdn.ea.com
 219.76.10.155	ams.akamai.cdn.ea.com
-#EA↑
+#EA//
 173.252.75.5	friendfeed.com
 173.252.75.5	www.friendfeed.com
 54.231.243.0	s3-ap-southeast-1.amazonaws.com
