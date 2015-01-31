@@ -20,7 +20,7 @@ $hosts = array(
         ),
 	array(
 		'path' => '360kb',
-		'desc' => '备用选择，只提供google，facebook的hosts源'
+		'desc' => '备用选择，只提供google，facebook的hosts源，新增加Android服务的hosts'
 	),
         array(
                 'path' => 'Hosts-a',
