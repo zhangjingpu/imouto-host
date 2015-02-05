@@ -14,10 +14,10 @@ $hosts = array(
 		'path' => 'netsh-ipv6',
 		'desc' => '推荐使用，适合支持IPV6的朋友，包含了常用的网站hosts'
 	),
-        array(
+        /*array(
                 'path' => 'General-hosts',
                 'desc' => '首选推荐，包含了常用的网站hosts，更新频率较快'
-        ),
+        ),*/
 	array(
 		'path' => '360kb',
 		'desc' => '备用选择，只提供google，facebook的hosts源，新增加Android服务的hosts'
