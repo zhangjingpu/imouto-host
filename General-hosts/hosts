@@ -1,5 +1,5 @@
 #+BEGIN
-#+UPDATE_TIME 2015-02-04 11:42:24
+#+UPDATE_TIME 2015-02-05 14:01:58
 #+MESSAGE
 #######################################################################
 #
@@ -89,7 +89,7 @@ ff02::2	ip6-allrouters
 59.18.44.157	id.google.com.hk
 59.18.44.157	images.google.com.hk
 216.58.216.139	m.google.com.hk
-203.208.46.177	maps.google.com.hk
+216.58.221.26	maps.google.com.hk
 59.18.44.157	news.google.com.hk
 59.18.44.157	picasaweb.google.com.hk
 59.18.44.157	plus.url.google.com.hk
@@ -111,7 +111,7 @@ ff02::2	ip6-allrouters
 59.18.44.157	id.google.com.tw
 59.18.44.157	images.google.com.tw
 216.58.216.139	m.google.com.tw
-203.208.46.177	maps.google.com.tw
+216.58.221.26	maps.google.com.tw
 59.18.44.157	news.google.com.tw
 59.18.44.157	picasaweb.google.com.tw
 59.18.44.157	plus.url.google.com.tw
@@ -131,7 +131,7 @@ ff02::2	ip6-allrouters
 59.18.44.157	id.google.com.sg
 59.18.44.157	images.google.com.sg
 216.58.216.139	m.google.com.sg
-203.208.46.177	maps.google.com.sg
+216.58.221.26	maps.google.com.sg
 59.18.44.157	news.google.com.sg
 59.18.44.157	picasaweb.google.com.sg
 59.18.44.157	plus.url.google.com.sg
@@ -820,7 +820,7 @@ ff02::2	ip6-allrouters
 216.58.220.174	v8.cache8.c.bigcache.googleapis.com
 #Googleapis//
 #Android\\
-59.18.44.157	android.clients.google.com
+216.58.221.26	android.clients.google.com
 216.58.221.26	android-china.clients.google.com
 216.58.221.26	redirector.c.android.clients.google.com
 59.18.44.157	android-china.l.google.com
@@ -1479,14 +1479,14 @@ ff02::2	ip6-allrouters
 59.18.44.157	uploads.client.google.com
 59.18.44.157	upload.clients.google.com
 59.18.44.157	upload.client.google.com
-64.233.189.117	upload.google.com
-64.233.189.117	upload.docs.google.com
-64.233.189.117	upload.photos.google.com
-64.233.189.117	upload.drive.google.com
-64.233.189.117	upload.video.google.com
-64.233.189.117	upload.youtube.com
-64.233.189.117	uploads.stage.gdata.youtube.com
-64.233.189.117	uploads.code.google.com
+64.233.178.117	upload.google.com
+64.233.178.117	upload.docs.google.com
+64.233.178.117	upload.photos.google.com
+64.233.178.117	upload.drive.google.com
+64.233.178.117	upload.video.google.com
+64.233.178.117	upload.youtube.com
+64.233.178.117	uploads.stage.gdata.youtube.com
+64.233.178.117	uploads.code.google.com
 #UpLoad//
 #Appspot\\
 64.233.164.141	www.appspot.com
@@ -2312,26 +2312,26 @@ ff02::2	ip6-allrouters
 #Google Services END
 
 #Twitter START
-199.59.150.17	twitter.com
-199.59.150.17	www.twitter.com
-199.59.150.17	mobile.twitter.com
-199.59.150.17	api.twitter.com
-199.59.148.149	urls-real.api.twitter.com
-199.16.158.44	t.co
+199.16.158.72	twitter.com
+199.16.158.72	www.twitter.com
+199.16.158.184	mobile.twitter.com
+199.16.158.41	api.twitter.com
+199.16.158.83	urls-real.api.twitter.com
+199.16.158.183	t.co
 #66.6.44.4	status.twitter.com
-199.59.150.17	tweetdeck.com
-199.59.150.17	www.tweetdeck.com
-199.59.150.17	tdweb.twitter.com
-199.59.150.17	api.tweetdeck.com
-199.59.150.17	downloads.tweetdeck.com
-199.59.150.17	tweetdeck.twitter.com
-199.59.150.17	web.tweetdeck.com
-199.16.156.58	ton.twitter.com
+199.16.158.182	tweetdeck.com
+199.16.158.182	www.tweetdeck.com
+199.16.158.182	tdweb.twitter.com
+199.16.158.182	api.tweetdeck.com
+199.16.158.182	downloads.tweetdeck.com
+199.16.158.182	tweetdeck.twitter.com
+199.16.158.182	web.tweetdeck.com
+199.16.156.122	ton.twitter.com
 23.44.161.224	p.twitter.com
 23.44.161.224	cdn.api.twitter.com
 23.44.161.224	platform.twitter.com
 23.44.161.224	preview.cdn.twitter.com
-199.16.158.114	image-proxy-origin.twimg.com
+199.16.158.50	image-proxy-origin.twimg.com
 199.96.57.8	syndication.twitter.com
 199.96.57.8	syndication.twimg.com
 199.96.57.8	cdn.syndication.twitter.com
@@ -2355,19 +2355,20 @@ ff02::2	ip6-allrouters
 199.96.57.7	si5.twimg.com
 199.96.57.7	ton.twimg.com
 199.96.57.7	wildcard.twimg.com.tw.map.fastly.net
-199.16.158.46	support.twitter.com
-199.59.150.17	blog.twitter.com
-199.59.150.17	about.twitter.com
-199.59.150.17	pic.twitter.com
-199.59.150.17	stream.twitter.com
-199.59.150.17	sitestream.twitter.com
-199.59.150.17	betastream.twitter.com
-199.59.150.17	business.twitter.com
-199.59.150.17	dev.twitter.com
-199.16.158.116	upload.twitter.com
-199.16.158.181	userstream.twitter.com
-199.16.158.74	transparency.twitter.com
-199.16.157.80	pay.twitter.com
+199.16.158.185	support.twitter.com
+199.16.158.72	blog.twitter.com
+199.16.158.72	about.twitter.com
+199.16.158.72	pic.twitter.com
+199.16.158.72	stream.twitter.com
+199.16.158.72	sitestream.twitter.com
+199.16.158.72	betastream.twitter.com
+199.16.158.72	business.twitter.com
+199.16.158.72	dev.twitter.com
+199.16.158.187	upload.twitter.com
+199.16.158.42	search.twitter.com
+199.16.158.42	userstream.twitter.com
+199.16.158.42	transparency.twitter.com
+199.16.158.42	pay.twitter.com
 96.127.160.130	twitpic.com
 #96.127.160.130	m1.twitpic.com
 96.127.160.130	web1.twitpic.com

@@ -13,9 +13,9 @@
 ### Hosts源更新时间 ###
 可自助选择切换hosts源，推荐使用imouto.host
 
- - netsh.host-ipv4 : 2015年2月2日  （推荐使用）
+ - netsh.host-ipv4 : 2015年2月5日  （推荐使用）
  - netsh.host-ipv6 : 2015年2月2日  （IPV6用户推荐使用）
- - General Hosts : 2015年2月4日  （备用，更新较快）
+ - General Hosts : 2015年2月5日  （备用，更新较快）
  - 360kb : 2015年2月2日  （备用，只提供google和facebook的hosts源）
  - Hosts-ä : 12月23日  （备用，基于imouto.host，增加了yyets、PS4、Xbox、任天堂、Android等服务
  - imouto.host : 10月30日  （暂停更新）
