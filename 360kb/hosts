@@ -58,10 +58,10 @@
 216.58.209.195    groups.google.com
 216.58.209.195    myaccount.google.com
 216.58.211.75     trends.google.com
-203.208.46.132    accounts.google.com
+216.58.209.195   accounts.google.com
 #base services
 #google mail begin
-203.208.46.132    mail.google.com
+216.58.209.195    mail.google.com
 216.58.209.195    gmail.com
 216.58.209.195    www.gmail.com
 216.58.209.195    m.gmail.com
@@ -713,7 +713,6 @@
 #google android end
 #google-hosts-2015-end
 
-#facebook hosts 2015
 173.252.120.10 facebook.com
 173.252.120.10 www.facebook.com
 185.60.216.7 touch.facebook.com
