@@ -15,7 +15,7 @@ hosts 修改后若还需要正常观看youtube视屏，请查看下面这篇文�
 
 ```
 ;ESword
-;version=20140818 724
+;version=20150205 954
 ;Contributors=KwokTree.OrzFly.jason_jiang.Felix Hsu.linjimmy.ZephyR.atmouse.Ehosts.zhqjsh.JayXon
 ;Description=Smart.Clean.Useful.Safe. Hosts-files.
 ;Vision=Better Internet Experience and Thanks 4 Every1.
