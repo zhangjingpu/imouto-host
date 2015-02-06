@@ -6,18 +6,10 @@ use lv\file\text\SplFile;
 
 $path = new Path();
 $hosts = array(
-	array(
-		'path' => 'netsh-ipv4',
-		'desc' => '推荐使用，包含了常用的网站，现已支持facebook、twitter'
-	), 
-	array(
-		'path' => 'netsh-ipv6',
-		'desc' => '推荐使用，适合支持IPV6的朋友，包含了常用的网站hosts'
-	),
-        /*array(
-                'path' => 'General-hosts',
-                'desc' => '首选推荐，包含了常用的网站hosts，更新频率较快'
-        ),*/
+        array(
+                'path' => 'Simple+U+Hosts',
+                'desc' => '2014年8月20日更新，备用选择'
+        ),
 	array(
 		'path' => '360kb',
 		'desc' => '备用选择，只提供google，facebook的hosts源，新增加Android服务的hosts'
@@ -29,11 +21,7 @@ $hosts = array(
 	array(
 		'path' => 'imouto.host',
 		'desc' => 'imo.hosts于10.30日暂停更新，更新之日另行通知。首选其他hosts，此hosts作为备用'
-	), 
-	array(
-		'path' => 'Simple+U+Hosts',
-		'desc' => '2014年8月20日更新，备用选择'
-	)
+	) 
 );
 
 foreach ($hosts as $key => $dir) 
