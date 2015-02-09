@@ -7,7 +7,7 @@ use lv\file\text\SplFile;
 $path = new Path();
 $hosts = array(
         array(
-                'path' => '360kb',
+                'path' => 'AcrylicHosts',
                 'desc' => '备用，facebook，twitter暂无效，有待更新'
         ),
 	array(
