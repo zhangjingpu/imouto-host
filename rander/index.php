@@ -7,8 +7,8 @@ use lv\file\text\SplFile;
 $path = new Path();
 $hosts = array(
         array(
-                'path' => 'Simple+U+Hosts',
-                'desc' => '2014年8月20日更新，备用选择'
+                'path' => '360kb',
+                'desc' => '备用，facebook，twitter暂无效，有待更新'
         ),
 	array(
 		'path' => '360kb',
@@ -17,6 +17,10 @@ $hosts = array(
         array(
                 'path' => 'Hosts-a',
                 'desc' => '备用选择，基于imouto.host，增加了PS、Xbox、任天堂、Android等服务'
+        ),
+        array(
+                'path' => 'Simple+U+Hosts',
+                'desc' => '2014年8月20日更新，备用选择'
         ), 
 	array(
 		'path' => 'imouto.host',
