@@ -20,7 +20,7 @@ $hosts = array(
         ),
         array(
                 'path' => 'Simple+U+Hosts',
-                'desc' => '2014年8月20日更新，备用选择'
+                'desc' => '备用选择，包含几个常用的网站'
         ), 
 	array(
 		'path' => 'imouto.host',
