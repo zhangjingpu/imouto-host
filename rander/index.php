@@ -10,6 +10,10 @@ $hosts = array(
                 'path' => 'AcrylicHosts',
                 'desc' => '备用，facebook，twitter暂无效，有待更新'
         ),
+        array(
+                'path' => 'yadgen',
+                'desc' => '新增备用源'
+        ),
 	array(
 		'path' => '360kb',
 		'desc' => '备用选择，只提供google，facebook的hosts源，新增加Android服务的hosts'

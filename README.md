@@ -13,8 +13,9 @@
 ### Hosts源更新时间 ###
 可自助选择切换hosts源，推荐使用imouto.host
 
- - Acrylated : 2015年2月7日  （备用，facebook，twitter暂不可用，待更新）
- - 360kb : 2015年2月9日  （备用，只提供google和facebook的hosts源）
+ - Acrylated : 2015年2月9日  （备用，facebook，twitter暂不可用，待更新）
+ - yadgen : 2015年2月10日  （新增备用源）
+ - 360kb : 2015年2月12日  （备用，只提供google和facebook的hosts源）
  - Hosts-ä : 12月23日  （备用，基于imouto.host，增加了yyets、PS4、Xbox、任天堂、Android等服务
  - Simple U Hosts : 2015年2月9日  （备用使用）
  - imouto.host : 10月30日  （暂停更新）
