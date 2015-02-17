@@ -1,5 +1,5 @@
 #+BEGIN
-#+UPDATE_TIME 2015.2.12
+#+UPDATE_TIME 2015.2.26
 #+MESSAGE
 #######################################################################
 #
@@ -634,9 +634,9 @@
 64.233.180.199    scholar.google.cn 
 64.233.180.199    translate.google.cn 
 64.233.180.199    www.google.cn 
-#google.cn end
-#begin
-203.208.46.132    accounts.l.google.com
+ #google.cn end
+ #begin
+ 203.208.46.132    accounts.l.google.com
 64.233.180.199    csi.l.google.com 
 64.233.180.199    googleapis.l.google.com
 64.233.180.199    maps.l.google.com
@@ -671,8 +671,8 @@
 64.233.180.199    photos-ugc.l.google.com
 64.233.180.199    music-streaming.l.google.com
 64.233.180.199    googlehosted.l.googleusercontent.com 
-#end
-#google alternative domains
+ #end
+ #google alternative domains
 64.233.180.199  suggestqueries.google.com
 64.233.180.199    www.googledrive.com
 64.233.180.199    map.google.com 
@@ -688,8 +688,8 @@
 64.233.180.199    ssl.google-analytics.com 
 64.233.180.199    www.google-analytics.com
 64.233.180.199    plus.url.google.com
-#google alternative domains end
-#google source begin
+ #google alternative domains end
+ #google source begin
 64.233.180.199    googlesource.com
 64.233.180.199    www.googlesource.com
 64.233.180.199    android.googlesource.com 
@@ -697,21 +697,21 @@
 64.233.180.199    gerrit.googlesource.com 
 64.233.180.199    kernel.googlesource.com 
 64.233.180.199    gwt.googlesource.com
-#google source end
-#google anroid begin(access via http)
-119.161.83.6    android.com
-119.161.83.6    www.android.com
-119.161.83.6    developer.android.com  
-119.161.83.6    market.android.com 
-119.161.83.6    source.android.com
-119.161.83.6    panoramio.com 
-119.161.83.6    www.panoramio.com 
-119.161.83.6    static.panoramio.com 
-119.161.83.6    www.webmproject.org 
-119.161.83.6    golang.org 
-119.161.83.6    play.golang.org 
-#google android end
-#google-hosts-2015-end
+ #google source end
+ #google anroid begin(access via http)
+119.161.83.12    android.com
+119.161.83.12    www.android.com
+119.161.83.12    developer.android.com  
+119.161.83.12    market.android.com 
+119.161.83.12    source.android.com
+119.161.83.12    panoramio.com 
+119.161.83.12    www.panoramio.com 
+119.161.83.12    static.panoramio.com 
+119.161.83.12    www.webmproject.org 
+119.161.83.12    golang.org 
+119.161.83.12    play.golang.org 
+ #google android end
+ #google-hosts-2015-end
 
 #facebook hosts 2015
 173.252.120.10 facebook.com
