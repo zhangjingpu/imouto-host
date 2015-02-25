@@ -1,5 +1,5 @@
 #+BEGIN
-#+UPDATE_TIME 2015.2.15
+#+UPDATE_TIME 2015.2.25
 #+Current Version 26
 #+MESSAGE
 #######################################################################
@@ -1532,20 +1532,6 @@
 203.208.41.155		www.googleadservices.com
 
 # (CHN) g-usr-content + g-CN
-203.208.41.155		clients1.googleusercontent.com
-203.208.41.155		clients2.googleusercontent.com
-203.208.41.155		clients3.googleusercontent.com
-203.208.41.155		clients4.googleusercontent.com
-203.208.41.155		clients5.googleusercontent.com
-203.208.41.155		clients6.googleusercontent.com
-203.208.41.155		clients7.googleusercontent.com
-203.208.41.155		lh0.googleusercontent.com
-203.208.41.155		lh1.googleusercontent.com
-203.208.41.155		lh2.googleusercontent.com
-203.208.41.155		lh3.googleusercontent.com
-203.208.41.155		lh4.googleusercontent.com
-203.208.41.155		lh5.googleusercontent.com
-203.208.41.155		lh6.googleusercontent.com
 203.208.41.155		265.com
 203.208.41.155		www.265.com
 203.208.41.155		g.cn
@@ -1581,35 +1567,53 @@
 203.208.41.155		www.google.cn
 203.208.41.155		www.gstatic.cn
 203.208.41.155		maps.gstatic.cn
-203.208.41.155		fonts.gstatic.com
-203.208.41.155		fonts.googleapis.com
-203.208.41.155		lh1.ggpht.com
-203.208.41.155		lh2.ggpht.com
-203.208.41.155		lh3.ggpht.com
-203.208.41.155		lh4.ggpht.com
-203.208.41.155		lh5.ggpht.com
-203.208.41.155		lh6.ggpht.com
-203.208.41.155		lh0.ggpht.com
-203.208.41.155		ssl.gstatic.com
-203.208.41.155		www.gstatic.com
-203.208.41.155		ajax.googleapis.com
-203.208.41.155		t0.gstatic.com
-203.208.41.155		t1.gstatic.com
-203.208.41.155		t2.gstatic.com
-203.208.41.155		t3.gstatic.com
-203.208.41.155		encrypted-tbn0.gstatic.com
-203.208.41.155		encrypted-tbn1.gstatic.com
-203.208.41.155		encrypted-tbn2.gstatic.com
-203.208.41.155		encrypted-tbn3.gstatic.com
-203.208.41.155		encrypted-tbn4.gstatic.com
-203.208.41.155		encrypted-tbn5.gstatic.com
-203.208.41.155		encrypted-tbn6.gstatic.com
-203.208.41.155		maps.gstatic.com
-203.208.41.155		webcache.googleusercontent.com
-203.208.41.155		g.co
-203.208.41.155		goo.gl
-203.208.41.155		plus.url.google.com
 203.208.41.155		tpc.googlesyndication.com
+
+# g-Fix-usr-con
+216.58.221.0		clients1.googleusercontent.com
+216.58.221.0		clients2.googleusercontent.com
+216.58.221.0		clients3.googleusercontent.com
+216.58.221.0		clients4.googleusercontent.com
+216.58.221.0		clients5.googleusercontent.com
+216.58.221.0		clients6.googleusercontent.com
+216.58.221.0		clients7.googleusercontent.com
+216.58.221.0		lh0.googleusercontent.com
+216.58.221.0		lh1.googleusercontent.com
+216.58.221.0		lh2.googleusercontent.com
+216.58.221.0		lh3.googleusercontent.com
+216.58.221.0		lh4.googleusercontent.com
+216.58.221.0		lh5.googleusercontent.com
+216.58.221.0		lh6.googleusercontent.com
+
+# g-Fix-pht-api-st
+216.58.221.0		fonts.gstatic.com
+216.58.221.0		fonts.googleapis.com
+216.58.221.0		lh1.ggpht.com
+216.58.221.0		lh2.ggpht.com
+216.58.221.0		lh3.ggpht.com
+216.58.221.0		lh4.ggpht.com
+216.58.221.0		lh5.ggpht.com
+216.58.221.0		lh6.ggpht.com
+216.58.221.0		lh0.ggpht.com
+216.58.221.0		ssl.gstatic.com
+216.58.221.0		www.gstatic.com
+216.58.221.0		ajax.googleapis.com
+216.58.221.0		t0.gstatic.com
+216.58.221.0		t1.gstatic.com
+216.58.221.0		t2.gstatic.com
+216.58.221.0		t3.gstatic.com
+216.58.221.0		encrypted-tbn0.gstatic.com
+216.58.221.0		encrypted-tbn1.gstatic.com
+216.58.221.0		encrypted-tbn2.gstatic.com
+216.58.221.0		encrypted-tbn3.gstatic.com
+216.58.221.0		encrypted-tbn4.gstatic.com
+216.58.221.0		encrypted-tbn5.gstatic.com
+216.58.221.0		encrypted-tbn6.gstatic.com
+216.58.221.0		maps.gstatic.com
+216.58.221.0		webcache.googleusercontent.com
+216.58.221.0		g.co
+216.58.221.0		goo.gl
+216.58.221.0		plus.url.google.com
 
 # g-Global
 216.58.221.0		encrypted-tbn0.google.com
@@ -4600,10 +4604,13 @@
 216.58.221.0		storage.googleapis.com
 216.58.221.0		plus.googleapis.com
 216.58.221.0		youtube.googleapis.com
+216.58.221.0		balsamiqgdrive.appspot.com
 216.58.221.0		google-developers.appspot.com
 216.58.221.0		chrome-devtools-frontend.appspot.com
 216.58.221.0		feedly-beta.appspot.com
 216.58.221.0		chromerestclient.appspot.com
+216.58.221.0		goagent.googlecode.com
+216.58.221.0		haoutil.googlecode.com
 216.58.221.0		golang.org
 216.58.221.0		www.golang.org
 216.58.221.0		blog.golang.org
