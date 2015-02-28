@@ -1,10 +1,10 @@
 #+BEGIN
-#+UPDATE_TIME 2015.2.25
+#+UPDATE_TIME 2015.2.28
 #+Current Version 26
 #+MESSAGE
 #######################################################################
 #
-#  yadgen
+#  yadgen.hosts
 #
 #  git：https://coding.net/u/levi/p/imouto-host/git
 #  订阅更新：https://list.qq.com/cgi-bin/qf_invite?id=b6eb34388fd016582957d6e50d005146e24fe6b166ee66c0
@@ -1283,13 +1283,13 @@
 # Google Services inc G+ Gmail Drive 鈥�
 # exc Youtube Videos
 
-# g-Alternative IP
+# g-Alternative-IP
 # 216.58.221.0
 # 216.58.208.32
 # 193.192.226.182
 # 64.233.189.118
 
-# g-Mail clients may not work for following hosts
+# g-Mail-Clients may not work for following hosts
 # If so, delete these lines
 # Wi-in-f108.1e100.net
 173.194.67.108		gmail-pop.l.google.com
@@ -1312,7 +1312,7 @@
 173.194.67.108		imap.googlemail.com
 173.194.67.108		googlemail-imap.l.google.com
 
-# g-co Domains
+# g-co-Domains
 216.58.221.0		admob.com
 216.58.221.0		www.admob.com
 216.58.221.0		apps.admob.com
@@ -1510,7 +1510,7 @@
 216.58.221.0		www.google.co.zw
 216.58.221.0		www.google.cat
 
-# (CHN) g-Ad Services + g-Analytics
+# g-Ad-Services + g-Analytics (CHN)
 203.208.41.155		static.googleadsserving.cn
 203.208.41.155		ad.doubleclick.net
 203.208.41.155		ad-g.doubleclick.net
@@ -1531,7 +1531,7 @@
 203.208.41.155		ssl.google-analytics.com
 203.208.41.155		www.googleadservices.com
 
-# (CHN) g-usr-content + g-CN
+# g-usr-content + g-CN (CHN)
 203.208.41.155		265.com
 203.208.41.155		www.265.com
 203.208.41.155		g.cn
@@ -1615,7 +1615,17 @@
 216.58.221.0		goo.gl
 216.58.221.0		plus.url.google.com
 
-# g-Global
+
+# g-Global-Projects
+216.58.221.0		www.webmproject.org
+216.58.221.0		webmproject.org
+216.58.221.0		chinesenewyear.withgoogle.com
+216.58.221.0		whatbrowser.org
+216.58.221.0		www.whatbrowser.org
+74.125.34.43		googlesciencefair.com
+74.125.34.43		www.googlesciencefair.com
+
+# g-Global-etc
 216.58.221.0		encrypted-tbn0.google.com
 216.58.221.0		encrypted-tbn1.google.com
 216.58.221.0		encrypted-tbn2.google.com
@@ -4616,8 +4626,7 @@
 216.58.221.0		blog.golang.org
 216.58.221.0		play.golang.org
 216.58.221.0		tour.golang.org
-216.58.221.0		www.webmproject.org
-216.58.221.0		webmproject.org
+
 #END gseyt
 
 #Wikipedia
