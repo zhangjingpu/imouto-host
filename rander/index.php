@@ -15,6 +15,10 @@ $hosts = array(
                 'desc' => '备用选择，只提供google，facebook的hosts源，新增加Android服务的hosts'
         ),
         array(
+                'path' => 'racaljk',
+                'desc' => '备用源，包含有：Google、Twitter、Youtube、Yahoo、live.com、Box.com、SoundCloud、Inoreader、Feedly、DuckDuckGo、Ixquick、Startpage、Wikipadia、Steam、XDA、HumbleBundle、DeviantART、Speedtest、Drupal、Theatlantic、Edgecast'
+        ),
+        array(
                 'path' => 'AcrylicHosts',
                 'desc' => '备用，facebook，twitter暂无效，有待更新'
         ),
